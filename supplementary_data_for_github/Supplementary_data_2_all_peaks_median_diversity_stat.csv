@@ -1,3 +1,8 @@
+"Supplementary Data 2: Divergence statistics for all 28 loci identified in association analysis. The protocols for identifying association regions and calculation of divergence statistics are presented in Methods. Median values are reported for all 20 kb windows within the association for FST, dxy, da, and time since divergence. A list of genes highlighted in the GREAT analysis are followed by a column containing all genes identified within the region using the annotation pipeline reported in Methods. Ensemble gene IDs are the final column.",,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
 peak,region,size,contrast,fst,dxy,da,time,Great genes,Genes in region,Ensembl IDs
 1,chr1:61944974_62649841,"704,867",fortis_fuliginosa,0.2,0.31,0.06,685602,"DLEU1, INTS6, KCNRG, KPNA3, RNASEH2B, SERPINE3, TRIM13","SPRYD7, TRIM13, KCNRG, ENSCPVG00005008228, ENSCPVG00005008231, RNASEH2B, FAM124A, SERPINE3, INTS6","ENSCPVG00005008201, ENSCPVG00005008213, ENSCPVG00005008220, ENSCPVG00005008228, ENSCPVG00005008231, ENSCPVG00005008240, ENSCPVG00005008258, ENSCPVG00005008270, ENSCPVG00005008302"
 1,chr1:61944974_62649841,"704,867",fortis_magnirostris,0.06,0.23,0.01,103263,,,

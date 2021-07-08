@@ -1,3 +1,6 @@
+"Supplementary Data 1: List of all re-sequenced samples included in this study, species, island, sequencing depth, NCBI BioProject ID, and SRA accession numbers.",,,,,,,
+,,,,,,,
+,,,,,,,
 SampleID,SRA.ID,Genus,Species,Island,depth,BioProject,SRA.Study
 acutirostris_Genovesa_101,DG101,Geospiza,acutirostris,Genovesa,12.3,PRJNA263122,SRP048643
 acutirostris_Genovesa_103,DG103,Geospiza,acutirostris,Genovesa,10.3,PRJNA263122,SRP048643
