@@ -76,6 +76,5 @@ python ../twisst/twisst.py \
 --method complete --groupsFile ../groups.txt
 
 #DONE!
-#The results can now be visualised using the following R scripts:
-#data_wrangling_TWISST.R - conducts the data processing
-#plot_TWIST.R - plots the results
+#The results can now be visualised using the following R script:
+#plot_TWIST.R
