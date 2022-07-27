@@ -1,0 +1,1 @@
+This contains a csv linking the annotation available on ensembl to gene names. Please see the main manuscript for a description of how these functional annotations were generated. In the future, ensembl will update their main gff file with their own functional annotations. 
